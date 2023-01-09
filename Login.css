@@ -1,0 +1,8 @@
+.loginRegister{
+    color: grey;
+}
+
+.loginRegister:hover{
+    cursor: pointer;
+    color:black;
+}
